@@ -133,3 +133,4 @@ npm start
 
 ## Reference
 - [Electron quick start](https://www.electronjs.org/docs/latest/tutorial/quick-start/)
+- [Desktop Applications With Reactjs and Electron](https://romankurnovskii.com/en/posts/howto-create-react-electron-app-ts/)
