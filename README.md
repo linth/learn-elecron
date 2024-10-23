@@ -103,7 +103,7 @@ window.addEventListener('DOMContentLoaded', () => {
 ```
 
 ```html
-// index.html
+<!-- index.html -->
 <!DOCTYPE html>
 <html>
 <head>
